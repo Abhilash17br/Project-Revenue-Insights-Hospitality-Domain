@@ -1,17 +1,16 @@
 # Project-Revenue Insights - Hospitality-Domain
 
 ## Link to my Dashboard
-🔷Novypro Dashboard - https://www.novypro.com/project/ad-hoc-request
+🔷Novypro Dashboard - https://www.novypro.com/project/revenue-insights---hospitality-domain
 
-
-🔷Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=b4c286d7-2560-4626-b066-c8faee746d3f&autoAuth=true&ctid=5583c874-04ed-477b-8448-d0b72a6e40e2
+🔷Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=8306465b-5851-489a-80b0-05f18633f873&autoAuth=true&ctid=5583c874-04ed-477b-8448-d0b72a6e40e2
 
 ## Overview:
-*Project: Provide Insights to Management*
+*Project: Provide Insights to the Revenue team in the Hospitality Domain.*
 
-*Domain: Consumer Goods*
+*Domain: Hospitality Domain*
 
-*Function: Executive Management*
+*Function: Revenue*
 
 
 ## Domain: Consumer Goods | Function: Executive Management
