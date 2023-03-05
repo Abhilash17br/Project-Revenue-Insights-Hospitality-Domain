@@ -28,19 +28,29 @@
 *As an data analyst who has been provided with sample data and a mock-up dashboard to work on the following task.*
 
 *- Create the metrics according to the metric list.*
+
 *- Create a dashboard according to the mock-up provided by stakeholders.*
+
 *- Create relevant insights that are not provided in the metric list/mock-up dashboard.*
+
 
 ## Tools Used:
 
-*MySQL: For SQL Queries*
+
+*Excel: For Data Cleaning*
 *Microsoft PowerPoint: For Presenting Insights*
 
-## Learnings from the Project:
+## Key Insights:
 
-*Variuos SQL Concepts - GROUP BY,JOINS,CTE,WINDOW FUNCTIONS,PIVOT COUNT METHOD etc..*
-*Different Ways of Data Loading from Sql to POWER BI, - Data Loading for this Project Was done by connecting POWER BI to sql Database to Write Sql Queries, to load only required Data.*
-*Presenting Insights using Microsoft PowerPoint.*
+*Checking at weekday, Weekend Table For ADR, RevPAR,Occupancy%,we could conclude that overall hotels are not changing the price between weedays and weekends.
+There is an Potential Oppurtunity to generate income, by changing Price between weekday and weekends, which most of the hotels have not adopted.*
+
+*The Fluctuation in ADR remains same over the time which is directly proportional to pricing ,Occupancy % is seen increasing Marginally,Revpar varies in linear with Occupancy % . This shows that the revenue growth over time is only due to its increase in occupancy %, and price for most of the hotels over time is almost constant, this could be an oppturnity to increase revenue through pricing*
+
+*occupancy %  is directly proportional to Average Ratings of the Hotel, and inversely Proportional with Pricing. Hotels with less Occupancy should work on its Ratings.*
+
+*Relization provides the details of conversion rates form booking to checkin, if the relization is low,it could be that customer is not pleased with apperance of the hotel as when compared to bokking it online.*
+
 
 # Thank you.
 
