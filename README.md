@@ -13,21 +13,22 @@
 *Function: Revenue*
 
 
-## Domain: Consumer Goods | Function: Executive Management
+## Domain:  Hospitality | Function: Revenue
 
-*Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.*
+*AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.*
 
 
 ## Problem Statement:
 
-*The management of Atliq Hardwares noticed they do not get enough insights to make quick, smart data-informed decisions. They have decided to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director, wanted to hire someone good at tech and soft skills. Hence, he decided to conduct a SQL challenge to help him understand both skills.*
+*The revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.*
 
 
  ## Task:
 
-*Our Task is to run SQL queries to answer 10 ad-hoc requests for which the business needs insights.*
-
-*The target audience of this dashboard is top-level management, hence we need to create a presentation to show the insights.*
+*As an data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
+Create the metrics according to the metric list.
+Create a dashboard according to the mock-up provided by stakeholders.
+Create relevant insights that are not provided in the metric list/mock-up dashboard.*
 
 ## Tools Used:
 
